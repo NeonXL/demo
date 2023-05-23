@@ -1,6 +1,6 @@
 {
   "posts": 
-{"data":{"id":"487796a3-6eaa-4fcb-a48f-345db167130e","status":"paid","price":257000,"address":"3FmTMST49cKuTLM4mKsvKyne259vimA2ok","payment_method":null,"missing_amt":257000,"overpaid_by":0,"success_url":"https://ordkit.xyz/mint/success/2f2a60d0-d9a0-4148-b37c-69c01876baa2"}}
+{"data":{"id":"487796a3-6eaa-4fcb-a48f-345db167130e","status":"processing","price":257000,"address":"3FmTMST49cKuTLM4mKsvKyne259vimA2ok","payment_method":null,"missing_amt":257000,"overpaid_by":0,"success_url":"https://ordkit.xyz/mint/success/2f2a60d0-d9a0-4148-b37c-69c01876baa2"}}
   ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
